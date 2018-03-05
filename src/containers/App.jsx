@@ -2,12 +2,12 @@ import React from 'react'
 import Header from './../components/Header'
 
 const App = () => {
-    return (
-        <div>
-            <Header/>
+  return (
+    <div>
+      <Header/>
       Yo, it's the parent compnent.
-        </div>
-    )
+    </div>
+  )
 }
 
 export default App 
