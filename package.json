@@ -19,7 +19,8 @@
   "homepage": "https://github.com/maxaguirre5/cryptodex#readme",
   "dependencies": {
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "styled-jsx": "^2.2.5"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",

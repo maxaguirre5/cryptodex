@@ -5,7 +5,13 @@ const App = () => {
   return (
     <div>
       <Header/>
-      Yo, it's the parent compnent.
+      <p>Yo, it's the parent compnent.</p>
+
+      <style jsx>{`
+        p {
+          color: red;
+        }
+      `}</style>
     </div>
   )
 }
